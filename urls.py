@@ -1,0 +1,6 @@
+REGISTER='https://stellarburgers.nomoreparties.site/api/auth/register'
+LOGIN='https://stellarburgers.nomoreparties.site/login'
+FORGOT_PASSWORD='https://stellarburgers.nomoreparties.site/forgot-password'
+HOME='https://stellarburgers.nomoreparties.site'
+FEED_PAGE='https://stellarburgers.nomoreparties.site/feed'
+ACCOUNT='https://stellarburgers.nomoreparties.site/account'
